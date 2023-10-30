@@ -1,0 +1,73 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "valentina",
+      "email": "vale2004guzman@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "nombre": "Laura",
+      "email": "lauran@gmail.com",
+      "password": "12345"
+    },
+    {
+      "email": "2004guzman@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "2004guzman@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "2004guzman@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "2004guzman@gmail.com",
+      "id": 6
+    },
+    {
+      "id": 9,
+      "nombre": "valentina",
+      "email": "vale2004guzman@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 10,
+      "nombre": "valentina",
+      "email": "vale2004guzman@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "Ticket": [
+    {
+      "idTicket": 1,
+      "nombreTicket": "J",
+      "fechaTicket": 30,
+      "precioTicket": 200
+    }
+  ],
+  "Empleado": [
+    {
+      "idEmpleado": 1,
+      "nombreEmpleado": "J",
+      "email": "kevin@gmail.com",
+      "password": 200
+    },
+    {
+      "idEmpleado": 2,
+      "nombreEmpleado": "Kevin",
+      "email": "kevin@gmail.com",
+      "password": 200
+    }
+  ],
+  "Solicitud": [
+    {
+      "idSolicitud": 1,
+      "nombreSolicitud": "J",
+      "tiposolicitid": 30
+    }
+  ]
+}
